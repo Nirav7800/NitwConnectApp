@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NitwConnect</string>
+    <string name="what_do_you_want_to_say">what do you want to say?</string>
+    <string name="post">POST</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918236974609",
+    "project_id": "nitwconnect-b73f9",
+    "storage_bucket": "nitwconnect-b73f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918236974609:android:16159ba78ce1cc8ec4abb0",
+        "android_client_info": {
+          "package_name": "com.example.nitwconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918236974609-vpfpqg5fsmqhgjm33qdvi1tl5o3p7opa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9aNOqGpey78jZR3ti2PGdh6ghOogcU54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918236974609-vpfpqg5fsmqhgjm33qdvi1tl5o3p7opa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
