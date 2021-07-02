@@ -31,8 +31,10 @@ class SigninActivity : AppCompatActivity() {
     private val RC_SIGN_IN: Int =123
     private lateinit var googleSignInClient:GoogleSignInClient
     override fun onCreate(savedInstanceState: Bundle?) {
+
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_signin)
+
         // Configure Google Sign In
         val gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
             .requestIdToken(getString(R.string.default_web_client_id))
@@ -40,6 +42,7 @@ class SigninActivity : AppCompatActivity() {
             .build()
         googleSignInClient = GoogleSignIn.getClient(this, gso)
         auth=Firebase.auth
+        googleSignInClient.revokeAccess()
         signinbtn.setOnClickListener {
             signIn()
         }

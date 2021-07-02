@@ -1,6 +1,9 @@
 package com.example.nitwconnect.daos
 
+import android.content.Intent
 import android.provider.Settings
+import android.widget.Toast
+import androidx.core.content.ContextCompat.startActivity
 import com.example.nitwconnect.models.Post
 import com.example.nitwconnect.models.User
 import com.google.android.gms.tasks.Task
@@ -17,6 +20,7 @@ class PostDao {
     val db=FirebaseFirestore.getInstance()
     val postCollection=db.collection("posts")
     val auth=Firebase.auth
+
     fun addPost(text:String)
     {
         val current_uid=auth.currentUser!!.uid
@@ -29,6 +33,8 @@ class PostDao {
             postCollection.document().set(post)
         }
     }
+
+
 
 
     fun getPostById(postId:String): Task<DocumentSnapshot>
@@ -56,4 +62,35 @@ class PostDao {
 
 
     }
+    fun deletpost(postId: String)
+    {
+
+
+        val current_uid=auth.currentUser!!.uid
+
+        GlobalScope.launch(Dispatchers.IO) {
+            val post=getPostById(postId).await().toObject(Post::class.java)!!
+            val createdby=   post.createdBy.uid
+
+            if(current_uid==createdby)
+            postCollection.document(postId).delete()
+
+        }
+
+    }
+    fun sharePost(postId: String):String
+    {
+        var text:String=""
+
+
+        GlobalScope.launch(Dispatchers.IO) {
+
+            val post=getPostById(postId).await().toObject(Post::class.java)!!
+          text= post.text
+
+
+        }
+        return text
+    }
+
 }

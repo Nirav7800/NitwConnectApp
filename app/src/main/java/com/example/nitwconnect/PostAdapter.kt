@@ -1,11 +1,14 @@
 package com.example.nitwconnect
 
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.appcompat.widget.SearchView
 import androidx.core.content.ContextCompat
+import androidx.core.content.ContextCompat.startActivity
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.nitwconnect.models.Post
@@ -26,6 +29,9 @@ class PostAdapter(options: FirestoreRecyclerOptions<Post>,val listner:IPostAdapt
         val likeCount: TextView = itemView.findViewById(R.id.likeCount)
         val userImage: ImageView = itemView.findViewById(R.id.userImage)
         val likeButton: ImageView = itemView.findViewById(R.id.likeButton)
+        val deleteButton:ImageView=itemView.findViewById(R.id.deletebtn)
+        val shareButton:ImageView=itemView.findViewById(R.id.sharebtn)
+
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PostViewHolder {
@@ -35,6 +41,14 @@ class PostAdapter(options: FirestoreRecyclerOptions<Post>,val listner:IPostAdapt
         viewHolder.likeButton.setOnClickListener {
              listner.onLikeClicked(snapshots.getSnapshot(viewHolder.adapterPosition).id)
         }
+        viewHolder.deleteButton.setOnClickListener {
+
+            listner.onDeleteClicked(snapshots.getSnapshot(viewHolder.adapterPosition).id)
+        }
+        viewHolder.shareButton.setOnClickListener {
+            listner.onShareClicked(snapshots.getSnapshot(viewHolder.adapterPosition).id)
+        }
+
         return viewHolder
     }
 
@@ -57,9 +71,14 @@ class PostAdapter(options: FirestoreRecyclerOptions<Post>,val listner:IPostAdapt
         }
 
     }
+
+
 }
 
 interface IPostAdapter{
     fun onLikeClicked(postId:String)
+    fun onDeleteClicked(postId: String)
+    fun onShareClicked(postId: String)
+
 
 }
