@@ -65,9 +65,11 @@ Features
 ->User is able to delete His Post
 
 ->Before Delete
-![7](https://user-images.githubusercontent.com/54497832/124351988-41236b00-dc1b-11eb-8902-9398e95a59e0.jpeg)
+![7](https://user-images.githubusercontent.com/54497832/124354155-34f1da80-dc28-11eb-8523-cd6d18d675bd.jpg)
+
 ->After Delete
-![8](https://user-images.githubusercontent.com/54497832/124351997-4c769680-dc1b-11eb-9544-d195413d93ba.jpeg)
+![8](https://user-images.githubusercontent.com/54497832/124354174-5652c680-dc28-11eb-8fa6-6ae14110d78b.jpg)
+
 
 #Share Button
 ->User is Able to Share This App across All social media
