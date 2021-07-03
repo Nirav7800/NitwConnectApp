@@ -41,8 +41,9 @@ Features
 ->Add Post 
 ->By clicking bottom buttom user can able to add the post and it will be shown to Home
 
+![4 (1)](https://user-images.githubusercontent.com/54497832/124354089-daf11500-dc27-11eb-8ac6-35c0275aaf64.jpg) ![5](https://user-images.githubusercontent.com/54497832/124354048-ad0bd080-dc27-11eb-9b41-17b88836242f.jpg)
 
-![4](https://user-images.githubusercontent.com/54497832/124354038-9ebdb480-dc27-11eb-92fe-5b1e2e96d9d5.jpg) ![5](https://user-images.githubusercontent.com/54497832/124354048-ad0bd080-dc27-11eb-9b41-17b88836242f.jpg)
+ 
 
 
 
