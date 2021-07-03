@@ -1,3 +1,4 @@
+![2](https://user-images.githubusercontent.com/54497832/124352884-dc6b0f00-dc20-11eb-843f-d95ede4ad514.jpg)
 "# socialapp" 
 "# NitwConnect" 
 
@@ -22,7 +23,8 @@ Features
 
 ->user will choose google account
 
-![2](https://user-images.githubusercontent.com/54497832/124351656-3e277b00-dc19-11eb-9eb9-aed55c89a612.jpeg)
+![2](https://user-images.githubusercontent.com/54497832/124352908-f7d61a00-dc20-11eb-8043-3929dd299d9b.jpg)
+
 
 #Home 
 
