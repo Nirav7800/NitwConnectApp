@@ -18,8 +18,8 @@ Features
   ->student mail for writing anything 
   ->using anymail user will be able to see data
   
-  
-  ![1](https://user-images.githubusercontent.com/54497832/124351646-2e0f9b80-dc19-11eb-9b8d-9eca6ebaabd2.jpeg)
+  ![1](https://user-images.githubusercontent.com/54497832/124352855-b2b1e800-dc20-11eb-9f13-c9ed351339b9.jpg)
+
 ->user will choose google account
 
 ![2](https://user-images.githubusercontent.com/54497832/124351656-3e277b00-dc19-11eb-9eb9-aed55c89a612.jpeg)
