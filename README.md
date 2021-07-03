@@ -73,22 +73,25 @@ Features
 
 #Share Button
 ->User is Able to Share This App across All social media
-![9](https://user-images.githubusercontent.com/54497832/124352078-bd1db300-dc1b-11eb-98db-e9747e3d7de5.jpeg)
-![10](https://user-images.githubusercontent.com/54497832/124352079-be4ee000-dc1b-11eb-933b-b7512945179a.jpeg)
+![9](https://user-images.githubusercontent.com/54497832/124354211-7f735700-dc28-11eb-83c4-ef598b72c00d.jpg)
+
+![10](https://user-images.githubusercontent.com/54497832/124354217-8dc17300-dc28-11eb-8dd1-3e965508ce52.jpg)
+
 
 
 #Resources
 
 ->By Clicking This Button User Will Able to Go Resources Screen In Which He is Able to See All the document Which are uploaded By All Users
-![11](https://user-images.githubusercontent.com/54497832/124352287-2b16aa00-dc1d-11eb-81cc-8c260ca5dabd.jpeg)
+![11](https://user-images.githubusercontent.com/54497832/124354238-b0ec2280-dc28-11eb-827d-ae8b95e7705d.jpg)
+
 
 
 #Add Resources
 
+![12](https://user-images.githubusercontent.com/54497832/124354256-ceb98780-dc28-11eb-9855-41af7475fcca.jpg)
+![13](https://user-images.githubusercontent.com/54497832/124354271-de38d080-dc28-11eb-98e7-891acf95e409.jpg)
+![14](https://user-images.githubusercontent.com/54497832/124354279-eabd2900-dc28-11eb-9af5-95bea813f5bd.jpg)
 
-![12](https://user-images.githubusercontent.com/54497832/124352311-3ec21080-dc1d-11eb-81df-d83bd06de4f2.jpeg)
-![13](https://user-images.githubusercontent.com/54497832/124352321-41246a80-dc1d-11eb-913b-2787b4fb3cbc.jpeg)
-![14](https://user-images.githubusercontent.com/54497832/124352324-4386c480-dc1d-11eb-9937-45d9f6d2c3b4.jpeg)
 
 
 
