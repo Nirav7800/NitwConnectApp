@@ -23,14 +23,16 @@ Features
 
 ->user will choose google account
 
-![2](https://user-images.githubusercontent.com/54497832/124352908-f7d61a00-dc20-11eb-8043-3929dd299d9b.jpg)
+
 ![2](https://user-images.githubusercontent.com/54497832/124352884-dc6b0f00-dc20-11eb-843f-d95ede4ad514.jpg)
 
 #Home 
 
 ->This is Home Page Of this App in which all the Post is shown and post will be shown in order of time of post
-![3](https://user-images.githubusercontent.com/54497832/124351705-978faa00-dc19-11eb-8e23-926d550f1a67.jpeg)
-![31](https://user-images.githubusercontent.com/54497832/124351816-28668580-dc1a-11eb-883c-bdb0349fbce8.jpeg)
+![3](https://user-images.githubusercontent.com/54497832/124353892-db3ce080-dc26-11eb-9642-ccbfd6791d82.jpg)
+
+![31](https://user-images.githubusercontent.com/54497832/124353909-f1e33780-dc26-11eb-9443-a85bd103ec5f.jpg)
+
 
 #Add Post Button
 ->Add Post 
