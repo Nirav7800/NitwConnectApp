@@ -29,9 +29,10 @@ Features
 #Home 
 
 ->This is Home Page Of this App in which all the Post is shown and post will be shown in order of time of post
-![3 (1)](https://user-images.githubusercontent.com/54497832/124354005-6a49f880-dc27-11eb-8572-f02c46362421.jpg)
 
-![31 (2)](https://user-images.githubusercontent.com/54497832/124353979-4981a300-dc27-11eb-97a3-b01d4ed32c49.jpg)
+![3 (1)](https://user-images.githubusercontent.com/54497832/124354005-6a49f880-dc27-11eb-8572-f02c46362421.jpg)![31 (2)](https://user-images.githubusercontent.com/54497832/124353979-4981a300-dc27-11eb-97a3-b01d4ed32c49.jpg)
+
+
 
 
 
