@@ -73,6 +73,8 @@ Features
 
 #Share Button
 ->User is Able to Share This App across All social media
+
+
 ![9](https://user-images.githubusercontent.com/54497832/124354211-7f735700-dc28-11eb-83c4-ef598b72c00d.jpg)
 
 ![10](https://user-images.githubusercontent.com/54497832/124354217-8dc17300-dc28-11eb-8dd1-3e965508ce52.jpg)
@@ -88,8 +90,9 @@ Features
 
 #Add Resources
 
-![12](https://user-images.githubusercontent.com/54497832/124354256-ceb98780-dc28-11eb-9855-41af7475fcca.jpg)
 ![13](https://user-images.githubusercontent.com/54497832/124354271-de38d080-dc28-11eb-98e7-891acf95e409.jpg)
+![12](https://user-images.githubusercontent.com/54497832/124354256-ceb98780-dc28-11eb-9855-41af7475fcca.jpg)
+
 ![14](https://user-images.githubusercontent.com/54497832/124354279-eabd2900-dc28-11eb-9af5-95bea813f5bd.jpg)
 
 
