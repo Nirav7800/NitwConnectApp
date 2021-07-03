@@ -42,8 +42,8 @@ Features
 ->By clicking bottom buttom user can able to add the post and it will be shown to Home
 
 
-![4](https://user-images.githubusercontent.com/54497832/124351759-e6d5da80-dc19-11eb-91c0-2c0143b94fc0.jpeg)
-![5](https://user-images.githubusercontent.com/54497832/124351762-e89f9e00-dc19-11eb-9535-3baa09d79a5c.jpeg)
+![4](https://user-images.githubusercontent.com/54497832/124354038-9ebdb480-dc27-11eb-92fe-5b1e2e96d9d5.jpg) ![5](https://user-images.githubusercontent.com/54497832/124354048-ad0bd080-dc27-11eb-9b41-17b88836242f.jpg)
+
 
 
 # Refresh Button2
